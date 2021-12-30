@@ -7,6 +7,6 @@ Iremos realizar análises de correlação de dados financeiros de empresas.
 Para isso utilizaremos uma biblioteca chamada `yfinance`, de código aberto que usa _APIs_ disponíveis publicamente do **[Yahoo!Ⓡ finance](https://finance.yahoo.com/)** e se destina a fins educacionais e de pesquisa.
 
 - Link da documentação da API:
- - https://pypi.org/project/yfinance/
+  - https://pypi.org/project/yfinance/
 
 Segue o link do [notebook](https://colab.research.google.com/drive/1WBnOwciEk8r7nKQ7nhDPBFNTUVtrY0px#scrollTo=S1maZAsuOJVo).
